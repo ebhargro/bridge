@@ -6,7 +6,6 @@ using namespace std;
 int main()
 {
     double result;
-    double sqrtResult;
     double a, b, c;
 
     cout.setf(ios::fixed);
